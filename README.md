@@ -9,6 +9,10 @@ Use iOS-focused tags:
 - `ios-4.5.1`
 - `ios-4.6.0`
 - `ios-4.6.1`
+- `ios-4.6.1-r1`
+- `ios-4.6.1-r2`
+
+Use `-rN` suffixes for republished artifacts under the same Godot engine version when binary packaging/build flags change.
 
 ## Asset convention
 
