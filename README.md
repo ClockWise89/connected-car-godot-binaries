@@ -8,6 +8,7 @@ Use iOS-focused tags:
 
 - `ios-4.5.1`
 - `ios-4.6.0`
+- `ios-4.6.1`
 
 ## Asset convention
 
