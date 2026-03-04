@@ -11,6 +11,9 @@ Use iOS-focused tags:
 - `ios-4.6.1`
 - `ios-4.6.1-r1`
 - `ios-4.6.1-r2`
+- `ios-4.6.1-r3`
+- `ios-4.6.1-r4`
+- `ios-4.6.1-r5`
 
 Use `-rN` suffixes for republished artifacts under the same Godot engine version when binary packaging/build flags change.
 
@@ -21,3 +24,7 @@ Each release should include:
 - `libgodot.xcframework.zip`
 
 Release notes should include the SPM checksum so `connected-car-godot-ios` can update `Package.swift`.
+
+## Current recommended release
+
+- `ios-4.6.1-r5`
